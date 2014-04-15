@@ -1,11 +1,11 @@
 Summary:	Fast and lightweight IDE using GTK+
 Name:		geany
-Version:	1.23.1
+Version:	1.24
 Release:	1
 License:	GPL v2+
 Group:		Development/Tools
 Source0:	http://download.geany.org/%{name}-%{version}.tar.bz2
-# Source0-md5:	86b911f2da3735d5cdc6ccf589b8e856
+# Source0-md5:	8a38c9d0dca45f964f8712158ec1998c
 URL:		http://www.geany.org/
 BuildRequires:	autoconf
 BuildRequires:	automake
